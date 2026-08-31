@@ -1,0 +1,11 @@
+PO_ID,Supplier,Order_Date,Delivery_Date,Item_Category,Quantity,CP,SP,Order_Status,Defective_Units,reason
+PO-2026-1001,Apex Silicon Corp,2026-01-10,2026-01-24,Microcontrollers,800,120.00,165.00,Delivered,8,Tolerance Out of Spec
+PO-2026-1002,Nexus Circuitry Ltd,2026-01-12,2026-02-02,High-Speed Connectors,1200,85.00,108.00,Delivered,35,Solder Bridging & Cold Joints
+PO-2026-1003,Zenon Power Solutions,2026-01-15,2026-02-15,Power Regulators,750,65.00,76.50,Delayed,65,Hermetic Packaging Seal Breach
+PO-2026-1004,Horizon Micro Devices,2026-01-18,2026-01-30,Optoelectronic Sensors,400,210.00,305.00,Delivered,4,None
+PO-2026-1005,Titan Component Works,2026-01-22,2026-02-10,Precision Heat Sinks,950,95.00,116.00,Delivered,42,Material Tensile Fatigue
+PO-2026-1006,Optima Connect Systems,2026-01-25,2026-02-04,RF Transceiver Modules,600,45.00,63.00,Delivered,10,None
+PO-2026-1007,Vanguard Precision Electro,2026-01-28,2026-02-24,MEMS Gyroscopes,500,160.00,192.00,Delayed,38,Pin Oxidation & Contamination
+PO-2026-1008,Quantum Dynamics Fab,2026-02-02,2026-02-18,Microcontrollers,350,310.00,428.00,Delivered,7,Thermal Overheating Under Load
+PO-2026-1009,Apex Silicon Corp,2026-02-05,2026-02-19,Ceramic Capacitors,1500,118.50,162.00,Delivered,12,Tolerance Out of Spec
+PO-2026-1010,Zenon Power Solutions,2026-02-10,2026-03-12,Power Regulators,800,66.00,77.00,Delayed,72,Thermal Overheating Under Load
